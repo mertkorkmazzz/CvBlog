@@ -1,0 +1,457 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Mert\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\MyMertBlog.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MyMertBlog.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\about.html",
+      "PackagePath": "staticwebassets\\esigned-html\\about.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\contact.html",
+      "PackagePath": "staticwebassets\\esigned-html\\contact.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\esigned-html\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\esigned-html\\css\\responsive.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\css\\style.css",
+      "PackagePath": "staticwebassets\\esigned-html\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\css\\style.css.map",
+      "PackagePath": "staticwebassets\\esigned-html\\css\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\css\\style.scss",
+      "PackagePath": "staticwebassets\\esigned-html\\css\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\do.html",
+      "PackagePath": "staticwebassets\\esigned-html\\do.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\arrow-end.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\arrow-end.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\arrow-middle.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\arrow-middle.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\arrow-start.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\arrow-start.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\c-1.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\c-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\c-2.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\c-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\c-3.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\c-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\d-1.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\d-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\d-2.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\d-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\d-3.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\d-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\d-4.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\d-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\d-5.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\d-5.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\envelope-white.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\envelope-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\fb.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\fb.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\hero-bg.jpg",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\hero-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\insta.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\insta.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\linkedin.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\linkedin.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\location-white.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\location-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\location.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\location.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\map-img.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\map-img.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\menu.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\menu.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\next.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\next.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\prev.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\prev.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\quote.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\quote.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\search-icon.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\search-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\target-bg.jpg",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\target-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\telephone-white.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\telephone-white.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\twitter.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\twitter.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\user.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\user.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\w-1.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\w-1.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\w-2.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\w-2.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\w-3.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\w-3.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\w-4.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\w-4.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\who-img.jpg",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\who-img.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\images\\youtube.png",
+      "PackagePath": "staticwebassets\\esigned-html\\images\\youtube.png"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\index.html",
+      "PackagePath": "staticwebassets\\esigned-html\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\esigned-html\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\js\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\esigned-html\\js\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\esigned-html\\portfolio.html",
+      "PackagePath": "staticwebassets\\esigned-html\\portfolio.html"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Mert\\Desktop\\HomeProjeler\\MyMertBlog\\MyMertBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.MyMertBlog.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.MyMertBlog.props",
+      "PackagePath": "build\\MyMertBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.MyMertBlog.props",
+      "PackagePath": "buildMultiTargeting\\MyMertBlog.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.MyMertBlog.props",
+      "PackagePath": "buildTransitive\\MyMertBlog.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
